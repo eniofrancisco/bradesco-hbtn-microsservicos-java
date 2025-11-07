@@ -41,3 +41,28 @@ bradesco-hbtn-microsservicos-java/
 
 '''bash
 mvn spring-boot:run
+# Projeto: Introducao ao Spring Boot
+
+Este repositório contém um resumo introdutório sobre o framework Spring Boot, abordando seus principais conceitos, benefícios e ferramentas relacionadas.
+
+## 📄 Arquivo
+
+- **resumo_spring_boot.txt**: Contém um resumo explicando o que é o Spring Boot, seus recursos, como adicionar dependências, qual IDE é mais indicada para usá-lo e o que é o Spring Initializr.
+
+## 📁 Estrutura
+
+bradesco-hbtn-microsservicos-java/
+└── 0x00/
+    └── introducao/
+        ├── resumo_spring_boot.txt
+        └── README.md
+
+## ✅ Conteúdo abordado
+
+- O que é o Spring Boot Framework
+- Benefícios e recursos oferecidos
+- Adição de dependências via Maven (pom.xml)
+- Comparativo entre IDEs: STS, IntelliJ IDEA, Eclipse e NetBeans
+- Utilização do Spring Initializr para geração de projetos
+
+Este material é ideal para quem está começando a trabalhar com microsserviços em Java utilizando o Spring Boot.
